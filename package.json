@@ -1,0 +1,20 @@
+{
+  "name": "juicy",
+  "version": "1.0.0",
+  "description": "Juice-Box from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marc Cooper",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootcamp-student/juicy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bootcamp-student/juicy/issues"
+  },
+  "homepage": "https://github.com/bootcamp-student/juicy#readme"
+}
